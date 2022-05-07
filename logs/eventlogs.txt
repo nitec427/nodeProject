@@ -1,17 +1,4 @@
-2022-05-07	c9860399-316c-400f-8fd1-50d7f8c265d5	An entry has been recorded
-2022-05-07	9a4743a8-2867-4569-8ebd-e34b88e72c3f	An entry has been recorded
-2022-05-07	d7c2df4b-baa0-4025-a099-d9982c051ced	An entry has been recorded
-2022-05-07	d6ba6563-fd67-4eec-b236-fe00ceb3d380	An entry has been recorded
-2022-05-07	c9b2ee1d-85bd-472a-8efe-5d6f6d291a49	An entry has been recorded
-2022-05-07	ce421dd9-a83c-481d-addb-d924a565b723	An entry has been recorded
-2022-05-07	dc08e1a1-f23a-464a-8d83-2dd13b566e48	An entry has been recorded
-2022-05-07	05f002a8-0d50-4ecb-b99d-516d7009574f	An entry has been recorded
-2022-05-07	6441877c-9792-4ab2-a3fd-a7ee571711bb	An entry has been recorded
-2022-05-07	adc41739-35c4-4e43-8394-b40c3ec3d98c	An entry has been recorded
-2022-05-07	2d092d45-0110-4d4b-91dd-6879209ca796	An entry has been recorded
-2022-05-07	8f28b288-cf66-45af-b80c-ad566a9730f0	An entry has been recorded
-2022-05-07	01a43824-da46-4456-8d3c-a3dae20fd1d8	An entry has been recorded
-2022-05-07	0efb45d3-14a3-464f-8184-7ace1675ebb1	An entry has been recorded
-2022-05-07	c8281150-9e06-4301-acbc-87b0e02cff20	An entry has been recorded
-2022-05-07	b3871ad3-3ec5-4626-b7cf-f014b5cb263c	An entry has been recorded
-2022-05-07	a4295bf7-2b0c-473c-8aac-239a358f0b97	An entry has been recorded
+2022-05-07	c1b09e43-4eed-4870-99c6-f2dbaefed6b5	GET	undefined	/ 
+2022-05-07	9ff318dd-1cea-438a-b947-ca90fe5faf2b	GET	undefined	/css/style.css 
+2022-05-07	df72e764-d645-45d0-881e-d59f07f635d6	GET	undefined	/ 
+2022-05-07	673be643-d488-4e88-94a3-47a7c1ba8c01	GET	undefined	/css/style.css 
